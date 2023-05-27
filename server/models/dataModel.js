@@ -1,0 +1,1 @@
+// defines the structure of the data received from the ESP32 and handles its storage or retrieval//

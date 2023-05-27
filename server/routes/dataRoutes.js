@@ -1,0 +1,1 @@
+//specifies the routes related to handling data from the ESP32. These routes will invoke the appropriate controller methods to handle the requests.//

@@ -1,0 +1,1 @@
+//Receives the data from the ESP32, performs any necessary data validation or manipulation, and interacts with the data model//
